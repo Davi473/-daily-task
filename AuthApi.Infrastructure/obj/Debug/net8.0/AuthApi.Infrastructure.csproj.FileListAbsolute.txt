@@ -1,0 +1,16 @@
+/workspaces/-daily-task/AuthApi.Infrastructure/bin/Debug/net8.0/AuthApi.Infrastructure.deps.json
+/workspaces/-daily-task/AuthApi.Infrastructure/bin/Debug/net8.0/AuthApi.Infrastructure.dll
+/workspaces/-daily-task/AuthApi.Infrastructure/bin/Debug/net8.0/AuthApi.Infrastructure.pdb
+/workspaces/-daily-task/AuthApi.Infrastructure/bin/Debug/net8.0/AuthApi.Domain.dll
+/workspaces/-daily-task/AuthApi.Infrastructure/bin/Debug/net8.0/AuthApi.Domain.pdb
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi.Infrastructure.csproj.AssemblyReference.cache
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi.Infrastructure.AssemblyInfoInputs.cache
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi.Infrastructure.AssemblyInfo.cs
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi.Infrastructure.csproj.CoreCompileInputs.cache
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi.Infrastructure.sourcelink.json
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi..8BFE9118.Up2Date
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi.Infrastructure.dll
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/refint/AuthApi.Infrastructure.dll
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/AuthApi.Infrastructure.pdb
+/workspaces/-daily-task/AuthApi.Infrastructure/obj/Debug/net8.0/ref/AuthApi.Infrastructure.dll

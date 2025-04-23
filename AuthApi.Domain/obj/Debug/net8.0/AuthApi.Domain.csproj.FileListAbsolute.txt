@@ -1,0 +1,12 @@
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/AuthApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/AuthApi.Domain.AssemblyInfoInputs.cache
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/AuthApi.Domain.AssemblyInfo.cs
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/AuthApi.Domain.csproj.CoreCompileInputs.cache
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/AuthApi.Domain.sourcelink.json
+/workspaces/-daily-task/AuthApi.Domain/bin/Debug/net8.0/AuthApi.Domain.deps.json
+/workspaces/-daily-task/AuthApi.Domain/bin/Debug/net8.0/AuthApi.Domain.dll
+/workspaces/-daily-task/AuthApi.Domain/bin/Debug/net8.0/AuthApi.Domain.pdb
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/AuthApi.Domain.dll
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/refint/AuthApi.Domain.dll
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/AuthApi.Domain.pdb
+/workspaces/-daily-task/AuthApi.Domain/obj/Debug/net8.0/ref/AuthApi.Domain.dll

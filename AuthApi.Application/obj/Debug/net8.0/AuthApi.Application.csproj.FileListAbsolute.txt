@@ -1,0 +1,16 @@
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi.Application.csproj.AssemblyReference.cache
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi.Application.AssemblyInfoInputs.cache
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi.Application.AssemblyInfo.cs
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi.Application.csproj.CoreCompileInputs.cache
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi.Application.sourcelink.json
+/workspaces/-daily-task/AuthApi.Application/bin/Debug/net8.0/AuthApi.Application.deps.json
+/workspaces/-daily-task/AuthApi.Application/bin/Debug/net8.0/AuthApi.Application.dll
+/workspaces/-daily-task/AuthApi.Application/bin/Debug/net8.0/AuthApi.Application.pdb
+/workspaces/-daily-task/AuthApi.Application/bin/Debug/net8.0/AuthApi.Domain.dll
+/workspaces/-daily-task/AuthApi.Application/bin/Debug/net8.0/AuthApi.Domain.pdb
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi..070C4442.Up2Date
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi.Application.dll
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/refint/AuthApi.Application.dll
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/AuthApi.Application.pdb
+/workspaces/-daily-task/AuthApi.Application/obj/Debug/net8.0/ref/AuthApi.Application.dll
